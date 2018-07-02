@@ -1,0 +1,1 @@
+If you expose the actions that can taken in a direct way and make knowledge on how to do things easy to access, it's harder for humans to make mistakes.
