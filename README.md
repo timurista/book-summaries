@@ -14,6 +14,7 @@ Read or peruse each chapter at your leisure or download 140 char summary.
 - Software Development
 - Design Process
 - Investing
+- Finance
 - Engineering
 
 
